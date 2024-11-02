@@ -26,6 +26,8 @@
     "boost.tiltDirection.up": "nach oben",
     "boost.whenColor": "Wenn [COLOR] gesehen wird",
     "boost.whenTilted": "Wenn [TILT_DIRECTION_ANY] geneigt",
+    "boost.whenDistance": "wenn Abstand [OPERATOR] [THRESHOLD]",
+    "boost.getDistance": "Abstand",
     "ev3.beepNote": "piepse Note [NOTE] für [TIME] Sek.",
     "ev3.buttonPressed": "Knopf [PORT] gedrückt?",
     "ev3.getBrightness": "Helligkeit",
