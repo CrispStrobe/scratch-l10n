@@ -17,6 +17,7 @@
     "boost.motorOnForRotation": "Schalte Motor [MOTOR_ID] für [ROTATION] Umdrehungen ein",
     "boost.seeingColor": "Sehe Farbe [COLOR]?",
     "boost.setLightHue": "setze Lichtfarbe auf [HUE]",
+    "boost.setLightBrightness": "setze Helligkeit von Licht an Port [PORT_ID] auf [BRIGHTNESS] %",
     "boost.setMotorDirection": "Setze Richtung von Motor [MOTOR_ID] auf [MOTOR_DIRECTION]",
     "boost.setMotorPower": "Setze von Motor [MOTOR_ID] die Geschwindigkeit auf [POWER]%",
     "boost.tiltDirection.any": "irgendwohin",
